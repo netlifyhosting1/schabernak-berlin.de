@@ -1,0 +1,7 @@
+/**
+ * Theme Name: Elucidate Child
+ * Template: elucidate
+ */
+#colophon > div{
+    display: none;
+}
